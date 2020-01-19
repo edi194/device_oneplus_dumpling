@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosip_dumpling.mk
+    $(LOCAL_DIR)/magma_dumpling.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosip_dumpling-user \
-    aosip_dumpling-userdebug \
-    aosip_dumpling-eng
+    magma_dumpling-user \
+    magma_dumpling-userdebug \
+    magma_dumpling-eng
